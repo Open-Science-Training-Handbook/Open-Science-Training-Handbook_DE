@@ -1,9 +1,9 @@
 ## <img src="/Images/Icons/open_data.png" width="200" height="200" />
-## 2. Open Research Data and Materials
+## 2. Offene Forschungsdaten und Materialien
 
-### What is it?
+### Was ist das?
 
-Open research data is data that can be freely accessed, reused, remixed and redistributed, for academic research and teaching purposes and beyond. Ideally, open data have no restrictions on reuse or redistribution, and are appropriately licensed as such. In exceptional cases, e.g. to protect the identity of human subjects, special or limited restrictions of access are set. Openly sharing data exposes it to inspection, forming the basis for research verification and reproducibility, and opens up a pathway to wider collaboration. At most, open data may be subject to the requirement to attribute and sharealike \(see the [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
+Offene Forschungsdaten sind Daten, die für akademische Forschung, Lehrzewecke und darüber hinaus frei zugänglich sind, wiederverwendet und weiterverteilt werden können. Im Idealfall haben offene Daten (Open Data) keine Einschränkungen bei der Wiederverwendung oder Weitergabe und werden entsprechend lizenziert. In Ausnahmefällen, z.B. zum Schutz der Identität von Menschen, werden besondere oder begrenzte Zugangsbeschränkungen festgelegt. Die Offenlegung von Daten ermöglicht ihre Überprüfung, was die Grundlage für die Verifizierbarkeit und Reproduzierbarkeit von Forschung bildet und einen Weg zu einer breiteren Kollaboration eröffnet. Open Data können höhstens der Namensnennung und der Weitergabe unter den gleichen Lizenzbedingungen unterliegen \((siehe das [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
 
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />

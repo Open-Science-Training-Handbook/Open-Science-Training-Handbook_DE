@@ -7,33 +7,33 @@ Offene Forschungsdaten sind Daten, die für akademische Forschung, Lehrzewecke u
 
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
-### Rationale
+### Einleitung
 
-Research data are often the most valuable output of many research projects, they are used as primary sources that underpin scientific research and enable derivation of theoretical or applied findings. In order to make findings/studies replicable, or at least reproducible or reusable \(see [Reproducible Research And Data Analysis](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) in any other way, the best practice recommendation for research data is to be as open and [FAIR](https://www.force11.org/fairprinciples) as possible, while accounting for ethical, commercial and privacy constraints with sensitive data or proprietary data.
+Forschungsdaten sind oft der wertvollste Output vieler Forschungsprojekte. Sie werden als primäre Quellen genutzt, die die wissenschaftliche Forschung unterstützen und die Ableitung theoretischer oder angewandter Erkenntnisse ermöglichen. Um Erkenntnisse/Studien replizierbar, oder zumindest reproduzierbar oder auf eine andere Weise wiederverwendbar zu machen \(siehe [Reproducible Research And Data Analysis](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\), ist die Best-Practice-Empfehlung für Forschungsdaten: so offen und [FAIR](https://www.force11.org/fairprinciples) wie möglich, wobei ethische, kommerzielle und datenschutzrechtliche Einschränkungen bei sensiblen Daten oder geschützten Daten berücksichtigt werden müssen.
 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 
-### Learning objectives
+### Lernziele
 
-1. Gain an understanding of the basic characteristics and principles of open and FAIR research data, including appropriate packaging and documentation, to enable others to understand, reproduce, and re-use in alternative ways.
+1. Verständnis für die grundlegenden Merkmale und Prinzipien von offenen und FAIRen Forschungsdaten, einschließlich geeigneter Aufbereitung und Dokumentation gewinnen, damit andere sie verstehen, reproduzieren und auf alternative Weise wiederverwenden können.
 
-2. Familiarity with the sorts of data that might be considered sensitive, and the restrictions or constraints on openly sharing them.
+2. Umgang mit der Art von Daten erlernen, die als sensibel angesehen werden können, und mit den Einschränkungen diese offen weiterzugeben.
 
-3. Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
+3. Die Fähigkeit entwickeln, einen "geschlossenen" Datensatz in einen "offenen" umzuwandeln, indem die erforderlichen Maßnahmen mit entsprechender Datenpflege und Metadaten in einem Datenmanagementplan implementiert werden.
 
-4. Be able to use research data management plan and to make your research results findable and accessible, even if it contains sensitive data.
+4. Die Fähigkeit entwicklen, einen Datenmanagementplan zu nutzen und  Forschungsergebnisse auffindbar und zugänglich zu machen, auch wenn sie sensible Daten enthalten.
 
-5. Understand the pros and cons of openly sharing different types of data \(e.g., privacy, sensitivity, de-identification, mediated access\).
+5. Die Vor- und Nachteile der offenen Weitergabe verschiedener Arten von Daten \(z.B. Datenschutz, Sensibilität, De-Identifikation, vermittelte Zugriffe\) verstehen.
 
-6. Understand the importance of appropriate metadata for sustainable archiving of research data.
+6. Die Bedeutung geeigneter Metadaten für eine nachhaltige Archivierung von Forschungsdaten verstehen.
 
-7. Understand the basic workflows and tools for sharing research data.
+7. Die grundlegenden Abläufe und Werkzeuge für die Weitergabe von Forschungsdaten verstehen.
 
-### Key components
+### Hauptbestandteile
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
-##### FAIR principles
+#### Grundwissen & Fähigkeiten
+##### Die FAIR-Prinzipien
 
 In 2014, a core set of principles were drafted in order to optimize the reusability of research data, named the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). They represent a community-developed set of guidelines and best practices to ensure that data or any digital object are **F**indable, **A**ccessible, **I**nteroperable and **R**e-usable:
 

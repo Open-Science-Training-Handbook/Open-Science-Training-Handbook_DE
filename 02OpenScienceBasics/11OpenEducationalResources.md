@@ -1,59 +1,94 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
-## 11. Open Educational Resources
 
-### What is it?
+## 11. Offene Bildungsmaterialien (OER)
 
-Open Educational Resources (OER) are defined as "teaching, learning and research materials in any medium – digital or otherwise – that reside in the public domain or have been released under an open license that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions" ([William and Flora Hewlett Foundation definition](https://www.hewlett.org/strategy/open-educational-resources/)). Open educational resources include full courses, course materials, modules, textbooks, streaming videos, tests,  images, software, and any other tools, materials, or techniques used to support access to knowledge.
+### Was ist das?
 
-### Rationale
+Open Educational Resources (OER) werden definiert als
 
-In many cases open educational resources are build upon research findings. If you are an Open Science practitioner it makes sense that your educational resources maintain the level of openness of your research. Moreover other instructors could use your material to elaborate new resources or adapt existing ones. In fact the creation of educational resources can be seen as a cycle similar to the research cycle: find, compose, adapt, use, and share ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
+"Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Andere ohne oder mit geringfügigen Einschränkungen. Dabei bestimmen die Urheber selbst, welche Nutzungsrechte sie einräumen und welche Rechte sie sich vorbehalten." ([UNESCO definition](https://www.unesco.de/bildung/open-educational-resources)).
+
+Mit dem Begriff der offenen Bildungsmaterialien (bzw. im Englischen "OER" oder "Open Educational Resources") können einzelne Materialien, aber auch komplette Kurse oder Bücher bezeichnet werden. Jedes Medium kann verwendet werden. Lehrpläne, Kursmaterialien, Lehrbücher, Streaming-Videos, Multimedia-Anwendungen, Podcasts – all diese Materialien sind OER, wenn sie unter einer offenen Lizenz veröffentlicht werden.
+
+### Einleitung
+
+In vielen Fällen werden offene Bildungsressourcen auf Forschungsergebnissen basierend entwickelt. Wenn Du eine Open Science-Praktikerin bzw. ein Open Science-Praktiker bist, ist es sicherlich sinnvoll, dass das in Deiner Forschung gewählte Niveau von Offenheit sich auch in Deinen Bildungsmaterialien widerspiegelt. Dies ist darüber hinaus auch aus dem Grund wünschenswert, damit dann andere Trainerinnen und Trainer Dein Material weiterverwenden können, um sie entweder an ihre eigenen Bedürfnisse anzupassen oder daraus neue Materialien zu entwickeln. Tatsächlich kann die Schaffung von offenen Bildungmaterialien als ein Zyklus angesehen werden, der dem Forschungszyklus ähnlich ist: finden, zusammenstellen, anpassen, nutzen und teilen ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
 
-1. Participants should learn the difference between open and non-open educational resources.
-2. Licensing is an essential part and indicates how to easily use and combine OER.
-3. Participants should know where to find and place created OER resources.
+### Lernziele
 
-### Key components
+1.  Teilnehmende lernen den Unterschied zwischen offenen und nicht offenen Bildungsressourcen kennen.
+
+2.  Lizenzierung ist ein wesentlicher Bestandteil offener Bildungsmaterialien . Teilnehmende lernen, wie OER einfach verwendet und kombiniert werden können.
+
+3.  Teilnehmende haben einen ersten Einblick in verschiedene Möglichkeiten, OER zu finden und selbsterstellte offene Bildungsmaterialien zu platzieren.
+
+### Schlüsselkomponenten
+
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge and Skills
 
-Open Educational Resources are only OER, if they have an open license. However, there is no clear guideline for the choice of license for your resource. So what kind of license is appropriate? In practice, Creative Commons (CC) licenses are most often used for OER. 
-Open Creative Commons licenses are [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), which can be used for most educational resources. For the distribution of databases under a free license, Creative Commons is not ideal. Rather, choose a specially suitable open license such as ODbl, ODC-BY or PDDL to be legally compliant.
+#### Kenntnisse und Fähigkeiten
 
-It is important to stress the need to define who holds copyright or any other related rights of the research output. The copyright holder is the one who can decide to lift restrictions if they are not lifted by default through the licenses. Licenses should therefore be explained in detail to properly attribute authors and to create true OER. This also includes the combination of different license types and its consequences.
+Offene Bildungsressourcen sind nur "echte OER", wenn sie mit einer offenen Lizenz ausgezeichnet sind. Es gibt jedoch keine klare Richtlinie für die Wahl der Lizenz für Ihre Ressource. Welche Art von Lizenz ist also angemessen? In der Praxis werden zumeist Creative Commons (CC)-Lizenzen afür OER verwendet. Zu den offenen Creative Commons-Lizenzen
+zählen [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) sowie [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), die
+für so gut wie alle Bildungsmaterialen verwendet werden können.
 
-Training should provide an overview of OER platforms and their intended use. OpenCourseWare (OCW) is one of the first open educational resource platforms and one of the key initiators of the open educational resources movement. Initiated at the Massachusetts Institute of Technology (MIT) in 2002, the [Open Education Consortium](http://www.oeconsortium.org) now provides materials from all over the world in form of courses under free licenses. Other pioneers were UNESCO and the William and Flora Hewlett Foundation which are still committed to open educational resources.
+---
 
-Examples for OER platforms are:
+![Creative Commons Lizenzspektrum DE quer](https://upload.wikimedia.org/wikipedia/commons/b/b5/Creative_Commons_Lizenzspektrum_DE_quer.svg)
 
-- [Creative Commons Search](https://search.creativecommons.org/) for image, audio, and video files
-- [Open Education Consortium](http://www.oeconsortium.org) for open course material
-- [OERCommons](https://www.oercommons.org/) for educational resources
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/80x15.png" alt="Creative Commons Lizenzvertrag" style="border-width: 0;"></a><br><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Creative Commons Lizenzspektrum DE quer</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="https://commons.wikimedia.org/wiki/File:Creative_Commons_Lizenzspektrum_DE_quer.svg" property="cc:attributionName" rel="cc:attributionURL">Napa</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+
+---
+
+Hier muss jedoch darauf hingewiesen werden, dass Creative Commons-Lizenzen eigentlich für Kulturgüter wie Bücher, Dokumente, Bilder, etc. gedacht sind, aber für Softwareapplikationen nur bedingt geeignet erscheinen. So ist bspw. für die Verbreitung von Datenbanken unter einer kostenlosen Lizenz eine Wahl von Creative Commons nicht ideal. Wählen Sie für solche Zwecke dann eher eine für Open Data besonders geeignete offene Lizenz wie [ODbl](https://opendatacommons.org/licenses/odbl/index.html), [ODC-BY](https://opendatacommons.org/licenses/by/index.html) oder [PDDL](https://opendatacommons.org/licenses/pddl/index.html), um rechtskonform zu sein.
+
+Es ist wichtig zu betonen, dass definiert werden muss, wer das Urheberrecht oder andere verwandte Schutzrechte an den für die OER zugrundeliegenden Forschungsergebnissen besitzt. Urheber ist diejenige Person, die beschließen kann, Beschränkungen aufzuheben, wenn sie nicht standardmäßig durch die Lizenzen aufgehoben werden. Lizenzen sollten daher ausführlich erläutert werden, um Autorinnen und Autoren korrekt zu benennen und ein echtes OER zu schaffen. Dazu gehört auch die Kombination verschiedener Lizenzarten und deren Konsequenzen.
+
+Schulungen zu OER sollten einen Überblick über existierende OER-Plattformen und deren Einsatzzweck vermitteln. OpenCourseWare (OCW) ist eine der ersten offenen OER-Plattformen und einer der wichtigsten Initiatoren der Bewegung der offenen Bildungsressourcen. Das [Open Education Consortium](http://www.oeconsortium.org), das 2002 am Massachusetts Institute of Technology (MIT) gegründet wurde, bietet heute Materialien aus der ganzen Welt in Form von
+Kursen unter freien Lizenzen an. Weitere Pioniere waren die UNESCO und die William and Flora Hewlett Foundation, die sich weiterhin für offene Bildungsressourcen einsetzen.
+
+*Notiz:* Eine interaktive Timeline, die die Entwicklung des OER-Themas in Deutschland thematisiert, ist unter [flavoursofopen.science](https://flavoursofopen.science/timeline-development-of-oer-in-germany) verfügbar und selbst als OER konzipiert, somit auch frei weiternutzbar.
+
+**Beispiele für OER-Plattformen sind:**
+
+- International:
+  -   [Creative Commons Suche](https://ccsearch.creativecommons.org/) nach Bild-, Audio- und Videodateien
+  -   [Open Education Consortium](http://www.oeconsortium.org) für offene Kursmaterialien
+  -   [OERCommons](https://www.oercommons.org/) für OER aller Attribution
+  -   Zudem Metasuchmaschinen wie der [Mason OER Finder](https://oer.deepwebaccess.com/oer/desktop/en/search.html) oder [OASIS](https://oasis.geneseo.edu/), mit denen eine Vielzahl von Open Content gefunden werden kann.
+
+- Deutsche OER-Plattformen:
+  -   [ELIXIR](http://www.bildungsserver.de/elixier/suche.html)-Suchmaschine der deutschen bildungsserver
+  -   [EduTags](https://www.edutags.de/)
+  -   [OER World Map](https://oerworldmap.org/)
+  - Allgemeine Informationen zu OER - mit deutscher Perspektive, aber auch international orientiert - sind zudem auf der Plattform [open-educational-resources](https://open-educational-resources.de/) zentral bereitgestellt.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
 
-Q: How can you ensure quality of the materials?
+### Fragen, Hindernisse und häufige Missverständnisse
 
-A: This is not always a given. So far there is no quality seal for OER materials. Open user comments, peer review, and the publication of materials on platforms of established institutions like e.g. universities can provide a first indication of quality. Just as with printed text materials, quality can though not be guaranteed. This unsettles many users. The actuality and adaptability of the materials nevertheless speaks for the use of OER. At the end of the day, you only know yourself whether the selected material is suitable for the intended purpose and whether its content is correct.
+F: Wie kannst Du die Qualität offener Bildungsmaterialien sicherstellen?
+
+A: Das ist in der Tat schwierig zu sagen. Bislang gibt es kein einheitliches Qualitätssiegel für OER-Materialien. Offene Kommentarforen zu Materialien, Peer Review und die Veröffentlichung von Materialien auf Plattformen etablierter Institutionen wie z.B. Universitäten können einen ersten Hinweis auf die Qualität geben. Wie bei gedruckten Textmaterialien kann die Qualität jedoch nicht garantiert werden. Das beunruhigt viele Benutzer. Die Möglichkeit, OER-Inhalte durch ihren offenen Charakter leicht zu aktualisieren und die Anpassungsfähigkeit der Materialien spricht aber trotzdem für den Einsatz von OER. Am Ende des Tages kannst nur Du selbst entscheiden, ob das ausgewählte Material für den von Dir vorgesehenen Zweck geeignet ist und ob sein Inhalt korrekt ist.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
 
-1. Trainees will be able to distinguish between copyrighted and free materials. 
-2. The combination of different license types and their effects will be known. 
-3. They will be able to find, use and create Open Educational Resources. 
+### Lernergebnisse
+
+1.  Lernende werden in der Lage sein, zwischen urheberrechtlich geschützten und freien Materialien zu unterscheiden.
+2.  Die Kombination verschiedener Lizenzarten und deren Auswirkungen werden ihnen bekannt sein.
+3.  Sie werden in der Lage sein, offene Bildungsmaterialien zu finden, zu nutzen und selbst zu erstellen.
+
+### Weiterführende Literatur
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
 
-* Butcher (2015). A Basic Guide to Open Educational Resources (OER). [hdl.handle.net](http://hdl.handle.net/11599/36)
+-   Butcher (2015). A Basic Guide to Open Educational Resources (OER). [hdl.handle.net](http://hdl.handle.net/11599/36)
 
-* Miao et al. (2016). Open Educational Resources: Policy, Costs and Transformation. [hdl.handle.net](http://hdl.handle.net/11599/2306)
+-   Miao et al. (2016). Open Educational Resources: Policy, Costs and Transformation. [hdl.handle.net](http://hdl.handle.net/11599/2306)
 
-* OECD (2007). Giving Knowledge for Free: The Emergence of Open Educational Resources. OECD Publishing, Paris. [doi.org/10.1787/9789264032125-en](http://dx.doi.org/10.1787/9789264032125-en)
+-   OECD (2007). Giving Knowledge for Free: The Emergence of Open Educational Resources. OECD Publishing, Paris. DOI [10.1787/9789264032125-de](https://doi.org/10.1787/9789264032125-en)
 
-* Open Knowledge Foundation (2014). Open Education Handbook 2014. [education.okfn.org](https://education.okfn.org/handbooks/handbook/)
+-   Open Knowledge Foundation (2014). Open Education Handbook 2014. [education.okfn.org](https://education.okfn.org/handbooks/handbook/)

@@ -50,7 +50,7 @@ Das **SMART**-Akronym ist eine einfache Möglichkeit, sich an die fünf Haupteig
 
 Die zu erreichenden Ziele können lang- oder kurzfristig gesteckt sein. Langfristige Ziele konzentrieren sich in der Regel auf die Änderung einer bestimmten Institutions-Policy und/oder damit einhergehender Praxis, während kurzfristige Ziele sich auf Änderungen in der persönlichen oder kollektiven Haltung, einer Sensibilisierung inkl. der Bereitschaft zur Aufnahme eines bestimmten Themas in die Agenda einer Institution oder Arbeitsgruppe, bis hin zum Aufbau eines Kreises von Unterstützenden oder gar eines weiterreichenden lokalen Movements für die Herbeiführung von Veränderung konzentrieren können. Es kann notwendig sein, zuerst einige der kurzfristigen Ziele zu erreichen, bevor die längerfristigen Ziele in den Fokus rücken können.
 
-*Hinweis:* Zahlreiche spezifische Beispiele werden u.a. im Dokument "[Grundlagen für die Entwicklung einer Open Scholarship-Strategie (DOI: 10.31222/osf.io/b4v8p)](https://doi.org/10.31222/osf.io/b4v8p)" diskutiert.
+*Hinweis:* Zahlreiche spezifische Beispiele werden u.a. im Dokument "[Grundlagen für die Entwicklung einer Open Scholarship-Strategie](https://doi.org/10.31222/osf.io/b4v8p)" diskutiert.
 
 
 **Hauptziele eines Advocacy-Programms:**
@@ -142,7 +142,7 @@ Die Trainerin/der Trainer wird in der Lage sein, die Schulung im größeren Kont
 
 * A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch. [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing)
 
-* Bolick et al. (2017). How open access is crucial to the future of science. [doi.org/10.1002/jwmg.21216](https://doi.org/10.1002/jwmg.21216) (*comment by authors: rebuttal article written in the Journal of Wildlife Management after a misleading / fearmongering article about OA*)
+* Bolick et al. (2017). How open access is crucial to the future of science. [Journal of Wildlife Management](https://doi.org/10.1002/jwmg.21216) (*comment by authors: rebuttal article written in the Journal of Wildlife Management following a misleading / fearmongering article about OA*)
 
 * Clyburne-Sherin (FSCI2017). Advocating for transparency policies - a toolkit for researchers, staff, and librarians. [github.com](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
 
@@ -162,7 +162,7 @@ Die Trainerin/der Trainer wird in der Lage sein, die Schulung im größeren Kont
 
 * SPARC. Author Rights & the SPARC Author Addendum. Your work, your rights. [sparcopen.org](https://sparcopen.org/our-work/author-rights/)
 
-* Tennant et al. (2019). Foundations for Open Scholarship Strategy Development. DOI: [10.5281/zenodo.1323436](https://doi.org/10.5281/zenodo.1323436)
+* Tennant et al. (2019). Foundations for Open Scholarship Strategy Development. [Zenodo](https://doi.org/10.5281/zenodo.1323436)
 
 * Webinar Report: Organising and advocating (2018). How can early-career researchers make their voices heard? eLife ECRwednesday webinar. [elifesciences.org](https://elifesciences.org/inside-elife/c458eb7c/webinar-report-organising-and-advocating)
 

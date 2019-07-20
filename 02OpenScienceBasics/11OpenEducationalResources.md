@@ -4,8 +4,6 @@
 
 ### Was ist das?
 
-Open Educational Resources (OER) werden definiert als
-
 "Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Andere ohne oder mit geringfügigen Einschränkungen. Dabei bestimmen die Urheber selbst, welche Nutzungsrechte sie einräumen und welche Rechte sie sich vorbehalten." ([UNESCO definition](https://www.unesco.de/bildung/open-educational-resources)).
 
 Mit dem Begriff der offenen Bildungsmaterialien (bzw. im Englischen "OER" oder "Open Educational Resources") können einzelne Materialien, aber auch komplette Kurse oder Bücher bezeichnet werden. Jedes Medium kann verwendet werden. Lehrpläne, Kursmaterialien, Lehrbücher, Streaming-Videos, Multimedia-Anwendungen, Podcasts – all diese Materialien sind OER, wenn sie unter einer offenen Lizenz veröffentlicht werden.

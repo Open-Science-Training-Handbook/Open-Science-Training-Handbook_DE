@@ -10,7 +10,7 @@ Mit dem Begriff der offenen Bildungsmaterialien (bzw. im Englischen "OER" oder "
 
 ### Einleitung
 
-In vielen Fällen werden offene Bildungsressourcen auf Forschungsergebnissen basierend entwickelt. Wenn Du eine Open Science-Praktikerin bzw. ein Open Science-Praktiker bist, ist es sicherlich sinnvoll, dass das in Deiner Forschung gewählte Niveau von Offenheit sich auch in Deinen Bildungsmaterialien widerspiegelt. Dies ist darüber hinaus auch aus dem Grund wünschenswert, damit dann andere Trainerinnen und Trainer Dein Material weiterverwenden können, um sie entweder an ihre eigenen Bedürfnisse anzupassen oder daraus neue Materialien zu entwickeln. Tatsächlich kann die Schaffung von offenen Bildungmaterialien als ein Zyklus angesehen werden, der dem Forschungszyklus ähnlich ist: finden, zusammenstellen, anpassen, nutzen und teilen ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
+In vielen Fällen werden offene Bildungsressourcen auf Forschungsergebnissen basierend entwickelt. Wenn Du eine Open Science-Praktikerin bzw. ein Open Science-Praktiker bist, ist es sicherlich sinnvoll, dass das in Deiner Forschung gewählte Niveau von Offenheit sich auch in Deinen Bildungsmaterialien widerspiegelt. Dies ist darüber hinaus auch aus dem Grund wünschenswert, damit dann andere Trainerinnen und Trainer Dein Material weiterverwenden können, um sie entweder an ihre eigenen Bedürfnisse anzupassen oder daraus neue Materialien zu entwickeln. Tatsächlich kann die Schaffung von offenen Bildungmaterialien als ein Zyklus angesehen werden, der dem Forschungszyklus ähnlich ist: finden, zusammenstellen, anpassen, nutzen und teilen (WikiEducator OER-Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 
@@ -18,7 +18,7 @@ In vielen Fällen werden offene Bildungsressourcen auf Forschungsergebnissen bas
 
 1.  Teilnehmende lernen den Unterschied zwischen offenen und nicht offenen Bildungsressourcen kennen.
 
-2.  Lizenzierung ist ein wesentlicher Bestandteil offener Bildungsmaterialien . Teilnehmende lernen, wie OER einfach verwendet und kombiniert werden können.
+2.  Lizenzierung ist ein wesentlicher Bestandteil offener Bildungsmaterialien. Teilnehmende lernen, wie OER einfach verwendet und kombiniert werden können.
 
 3.  Teilnehmende haben einen ersten Einblick in verschiedene Möglichkeiten, OER zu finden und selbsterstellte offene Bildungsmaterialien zu platzieren.
 
@@ -28,9 +28,8 @@ In vielen Fällen werden offene Bildungsressourcen auf Forschungsergebnissen bas
 
 #### Kenntnisse und Fähigkeiten
 
-Offene Bildungsressourcen sind nur "echte OER", wenn sie mit einer offenen Lizenz ausgezeichnet sind. Es gibt jedoch keine klare Richtlinie für die Wahl der Lizenz für Ihre Ressource. Welche Art von Lizenz ist also angemessen? In der Praxis werden zumeist Creative Commons (CC)-Lizenzen afür OER verwendet. Zu den offenen Creative Commons-Lizenzen
-zählen [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) sowie [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), die
-für so gut wie alle Bildungsmaterialen verwendet werden können.
+Offene Bildungsressourcen sind nur "echte" OER, wenn sie mit einer offenen Lizenz ausgezeichnet sind. Es gibt jedoch keine klare Richtlinie für die Wahl der Lizenz für Deine Ressource. Welche Art von Lizenz ist also angemessen? In der Praxis werden zumeist Creative Commons (CC)-Lizenzen für OER verwendet. Zu den offenen Creative Commons-Lizenzen
+zählen [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) sowie [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), die für so gut wie alle Bildungsmaterialen verwendet werden können.
 
 ---
 
@@ -40,28 +39,27 @@ für so gut wie alle Bildungsmaterialen verwendet werden können.
 
 ---
 
-Hier muss jedoch darauf hingewiesen werden, dass Creative Commons-Lizenzen eigentlich für Kulturgüter wie Bücher, Dokumente, Bilder, etc. gedacht sind, aber für Softwareapplikationen nur bedingt geeignet erscheinen. So ist bspw. für die Verbreitung von Datenbanken unter einer kostenlosen Lizenz eine Wahl von Creative Commons nicht ideal. Wählen Sie für solche Zwecke dann eher eine für Open Data besonders geeignete offene Lizenz wie [ODbl](https://opendatacommons.org/licenses/odbl/index.html), [ODC-BY](https://opendatacommons.org/licenses/by/index.html) oder [PDDL](https://opendatacommons.org/licenses/pddl/index.html), um rechtskonform zu sein.
+Hier muss jedoch darauf hingewiesen werden, dass Creative Commons-Lizenzen eigentlich für Kulturgüter wie Bücher, Dokumente, Bilder, etc. gedacht sind, aber für Softwareapplikationen nur bedingt geeignet erscheinen. So ist bspw. für die Verbreitung von Datenbanken unter einer kostenlosen Lizenz eine Wahl von Creative Commons nicht ideal. Wähle für solche Zwecke also dann eher eine für Open Data besonders geeignete offene Lizenz wie [ODbl](https://opendatacommons.org/licenses/odbl/index.html), [ODC-BY](https://opendatacommons.org/licenses/by/index.html) oder [PDDL](https://opendatacommons.org/licenses/pddl/index.html), um rechtskonform zu sein.
 
 Es ist wichtig zu betonen, dass definiert werden muss, wer das Urheberrecht oder andere verwandte Schutzrechte an den für die OER zugrundeliegenden Forschungsergebnissen besitzt. Urheber ist diejenige Person, die beschließen kann, Beschränkungen aufzuheben, wenn sie nicht standardmäßig durch die Lizenzen aufgehoben werden. Lizenzen sollten daher ausführlich erläutert werden, um Autorinnen und Autoren korrekt zu benennen und ein echtes OER zu schaffen. Dazu gehört auch die Kombination verschiedener Lizenzarten und deren Konsequenzen.
 
-Schulungen zu OER sollten einen Überblick über existierende OER-Plattformen und deren Einsatzzweck vermitteln. OpenCourseWare (OCW) ist eine der ersten offenen OER-Plattformen und einer der wichtigsten Initiatoren der Bewegung der offenen Bildungsressourcen. Das [Open Education Consortium](http://www.oeconsortium.org), das 2002 am Massachusetts Institute of Technology (MIT) gegründet wurde, bietet heute Materialien aus der ganzen Welt in Form von
-Kursen unter freien Lizenzen an. Weitere Pioniere waren die UNESCO und die William and Flora Hewlett Foundation, die sich weiterhin für offene Bildungsressourcen einsetzen.
+Schulungen zu OER sollten einen Überblick über existierende OER-Plattformen und deren Einsatzzweck vermitteln. OpenCourseWare (OCW) ist eine der ersten offenen OER-Plattformen und einer der wichtigsten Initiatoren der Bewegung der offenen Bildungsressourcen. Das [Open Education Consortium](http://www.oeconsortium.org), das 2002 am Massachusetts Institute of Technology (MIT) gegründet wurde, bietet heute Materialien aus der ganzen Welt in Form von Kursen unter freien Lizenzen an. Weitere Pioniere waren die UNESCO und die William and Flora Hewlett Foundation, die sich weiterhin für offene Bildungsressourcen einsetzen.
 
-*Notiz:* Eine interaktive Timeline, die die Entwicklung des OER-Themas in Deutschland thematisiert, ist unter [flavoursofopen.science](https://flavoursofopen.science/timeline-development-of-oer-in-germany) verfügbar und selbst als OER konzipiert, somit auch frei weiternutzbar.
+   * *Notiz:* Eine interaktive Timeline, die die Entwicklung des OER-Themas in Deutschland thematisiert, ist unter [flavoursofopen.science](https://flavoursofopen.science/timeline-development-of-oer-in-germany) verfügbar und selbst als OER konzipiert, somit auch frei weiternutzbar.
 
 **Beispiele für OER-Plattformen sind:**
 
 - International:
   -   [Creative Commons Suche](https://ccsearch.creativecommons.org/) nach Bild-, Audio- und Videodateien
-  -   [Open Education Consortium](http://www.oeconsortium.org) für offene Kursmaterialien
-  -   [OERCommons](https://www.oercommons.org/) für OER aller Attribution
+  -   [Open Education Consortium](http://www.oeconsortium.org), für offene Kursmaterialien
+  -   [OERCommons](https://www.oercommons.org/), für OER aller Art
   -   Zudem Metasuchmaschinen wie der [Mason OER Finder](https://oer.deepwebaccess.com/oer/desktop/en/search.html) oder [OASIS](https://oasis.geneseo.edu/), mit denen eine Vielzahl von Open Content gefunden werden kann.
 
 - Deutsche OER-Plattformen:
   -   [ELIXIR](http://www.bildungsserver.de/elixier/suche.html)-Suchmaschine der deutschen bildungsserver
   -   [EduTags](https://www.edutags.de/)
   -   [OER World Map](https://oerworldmap.org/)
-  - Allgemeine Informationen zu OER - mit deutscher Perspektive, aber auch international orientiert - sind zudem auf der Plattform [open-educational-resources](https://open-educational-resources.de/) zentral bereitgestellt.
+  -   Allgemeine Informationen zu OER - mit deutscher Perspektive, aber auch international orientiert - sind zudem auf der Plattform [open-educational-resources](https://open-educational-resources.de/) zentral bereitgestellt.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 

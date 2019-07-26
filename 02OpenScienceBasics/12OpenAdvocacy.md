@@ -65,23 +65,23 @@ Die zu erreichenden Ziele können lang- oder kurzfristig gesteckt sein. Langfris
 ##### Schritte zur Implementierung guter Advocacy
 
 1.  Definiere Deine Ziele
-    i.  Frage Dich: Was muss sich ändern?
-    ii.  Welche Forderungen wollen wir stellen? Bspw. Anpassung/Änderung der Gesetzgebung, von Policies, von Regulierungsmaßnahmen und -Richtlinien, von bestehenden Programmen, der Finanzierung
+    * Frage Dich: Was muss sich ändern?
+    * Welche Forderungen wollen wir stellen? Bspw. Anpassung/Änderung der Gesetzgebung, von Policies, von Regulierungsmaßnahmen und -Richtlinien, von bestehenden Programmen, der Finanzierung
 2.  Lerne Deine Zielgruppe verstehen: wende unterschiedliche Strategien für jedes Einzel-Ziel an
 3.  Erstelle ein Profil der unterschiedlichen existierenden Interessengruppen im Open Access-Bereich,  einschließlich ihrer inhaltlichen Ausrichtung und Einstellung gegenüber bestimmten Fragen
 4.  Gestalte die Aussage Deines Advocacy-Programms proaktiv: Schaffe überzeugende Botschaften, die die Interessen der potentiellen Interessengruppen adressieren.
-    i.  Sei Dir darüber im Klaren, worum es uns geht.
-    ii.  Bleibe konzise und fokussiert mit Deinen Aussagen.
-    iii.  Verwende eine positive Sprache.
-    iv. Nutze Faktenwissen, das Deine Forderungen untermauert - harte Fakten haben mehr Gewicht als persönliche Anekdoten.
-    v. Ökonomische Aspekte und Argumente sind wichtig und sollten daher immer mitgedacht werden
+    * Sei Dir darüber im Klaren, worum es uns geht.
+    * Bleibe konzise und fokussiert mit Deinen Aussagen.
+    * Verwende eine positive Sprache.
+    * Nutze Faktenwissen, das Deine Forderungen untermauert - harte Fakten haben mehr Gewicht als persönliche Anekdoten.
+    * Ökonomische Aspekte und Argumente sind wichtig und sollten daher immer mitgedacht werden
 5. Plane und entwickel Deine Kommunikations- und Advocacy-Kampagne.
 6. Identifiziere Umsetzungswege und -möglichkeiten
-    i. Advocacy lebt vom Aufbau und der Aufrechterhaltung von Beziehungen
-    ii. Die Ansprachetaktik hängt jeweils von der Zielgruppe ab
+    * Advocacy lebt vom Aufbau und der Aufrechterhaltung von Beziehungen
+    * Die Ansprachetaktik hängt jeweils von der Zielgruppe ab
 7. Identifiziere (potentiell) verfügbare Ressourcen sowie möglichen Versorgungslücken:
-    i. Führe eine [SWOT-Analyse](https://de.wikipedia.org/wiki/SWOT-Analyse) durch (Stärken, Schwächen, Chancen und Risiken)
-    ii. Baue auf vorhandenen Ressourcen und Möglichkeiten auf und entwickle diese weiter
+    * Führe eine [SWOT-Analyse](https://de.wikipedia.org/wiki/SWOT-Analyse) durch (Stärken, Schwächen, Chancen und Risiken)
+    * Baue auf vorhandenen Ressourcen und Möglichkeiten auf und entwickle diese weiter
 8. Plane Deine nächsten Schritte planen, identifiziere erreichbare Ziele, die die
     Voraussetzungen für Schritte zur nächstgößeren Aufgabe schaffen: die der Arbeit an einer Advocacy-Strategie bzw. eines -Plans
 9. Überprüfe regelmäßig die Wirksamkeit des Advocacy-Programms.

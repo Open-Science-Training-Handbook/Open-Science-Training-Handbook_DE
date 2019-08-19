@@ -27,7 +27,7 @@ Total de palabras del Manual: 43.243.
   </tr>
  <tr>
     <td>Readme</td>
-    <td></td>
+    <td>Helene</td>
     <td></td>
     <td></td>
     <td></td>
@@ -41,7 +41,7 @@ Total de palabras del Manual: 43.243.
   </tr>
   <tr>
     <td>Open Science Basics</td>
-    <td></td>
+    <td>Helene</td>
     <td></td>
     <td></td>
     <td></td>
